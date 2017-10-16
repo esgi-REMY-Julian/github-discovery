@@ -1,1 +1,2 @@
-test de contribution sur GtHb
+test de contribution sur GitHub
+GitHub permet de voir avec son groupe de projet les differentes modifications efféctuées par tout le monde.
